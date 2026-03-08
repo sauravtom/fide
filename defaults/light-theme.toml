@@ -1,7 +1,7 @@
 #:schema ../extra/schemas/color-theme.json
 
 [color-theme]
-name = "Lapce Light"
+name = "FIDE Light"
 
 [ui]
 font-family = ""
@@ -88,38 +88,38 @@ dim-text = "#A0A1A7"
 "bracket.unpaired" = "$red"
 
 [color-theme.ui]
-"lapce.error" = "#E51400"
-"lapce.warn" = "#E9A700"
-"lapce.dropdown_shadow" = "#B4B4B4"
-"lapce.border" = "#B4B4B4"
-"lapce.scroll_bar" = "#B4B4B4BB"
+"fide.error" = "#E51400"
+"fide.warn" = "#E9A700"
+"fide.dropdown_shadow" = "#B4B4B4"
+"fide.border" = "#B4B4B4"
+"fide.scroll_bar" = "#B4B4B4BB"
 
-"lapce.button.primary.background" = "#50a14f"
-"lapce.button.primary.foreground" = "$white"
+"fide.button.primary.background" = "#50a14f"
+"fide.button.primary.foreground" = "$white"
 
 # tab
-"lapce.tab.active.background" = "$primary-background"
-"lapce.tab.active.foreground" = "$text"
-"lapce.tab.active.underline" = "#528BFF"
+"fide.tab.active.background" = "$primary-background"
+"fide.tab.active.foreground" = "$text"
+"fide.tab.active.underline" = "#528BFF"
 
-"lapce.tab.inactive.background" = "#EAEAEB"
-"lapce.tab.inactive.foreground" = "$text"
-"lapce.tab.inactive.underline" = "#528BFF77"
+"fide.tab.inactive.background" = "#EAEAEB"
+"fide.tab.inactive.foreground" = "$text"
+"fide.tab.inactive.underline" = "#528BFF77"
 
-"lapce.tab.separator" = "#B4B4B4"
+"fide.tab.separator" = "#B4B4B4"
 
-"lapce.icon.active" = "$text"
-"lapce.icon.inactive" = "$dim-text"
+"fide.icon.active" = "$text"
+"fide.icon.inactive" = "$dim-text"
 
-"lapce.remote.icon" = "$white"
-"lapce.remote.local" = "#4078F2"
-"lapce.remote.connected" = "#50A14F"
-"lapce.remote.connecting" = "#C18401"
-"lapce.remote.disconnected" = "#E45649"
+"fide.remote.icon" = "$white"
+"fide.remote.local" = "#4078F2"
+"fide.remote.connected" = "#50A14F"
+"fide.remote.connecting" = "#C18401"
+"fide.remote.disconnected" = "#E45649"
 
-"lapce.plugin.name" = "#444444"
-"lapce.plugin.description" = "$text"
-"lapce.plugin.author" = "#707070"
+"fide.plugin.name" = "#444444"
+"fide.plugin.description" = "$text"
+"fide.plugin.author" = "#707070"
 
 "terminal.cursor" = "$text"
 "terminal.foreground" = "$text"
